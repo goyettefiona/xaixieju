@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leefahthu.telehash.org/sitemap.xml
